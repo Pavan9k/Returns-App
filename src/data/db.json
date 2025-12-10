@@ -1,0 +1,298 @@
+{
+  "users": [
+    {
+      "id": "9999999999",
+      "userId": "9999999999",
+      "financialYear": {
+        "year1": {
+          "step": "completed",
+          "refundDetails": {
+            "refundAmount": 0,
+            "refundStatus": "",
+            "refundDate": ""
+          },
+          "filingDetails": {
+            "filingStatus": "",
+            "acknowledgementNumber": "",
+            "fillingDate": ""
+          },
+          "commissionDetails": {
+            "totalCommissionAmount": 0,
+            "commissionReceived": ""
+          },
+          "basicInformation": {
+            "name": "",
+            "PAN": "",
+            "mobile": "",
+            "isCompleted": false
+          },
+          "salaryIncome": {
+            "employerCategory": "",
+            "grossSalary": 0,
+            "basicSalary": 0,
+            "hraReceived": 0,
+            "rentPaid": 0,
+            "cityType": "",
+            "otherAllowances": {
+              "allowance1": 0,
+              "allowance2": 0,
+              "allowance3": 0,
+              "allowance4": 0,
+              "allowance5": 0
+            },
+            "ProfessionalTaxPaid": 0,
+            "standardDeduction": 0,
+            "employerPfContribution": 0,
+            "employerNpsContribution": 0,
+            "GratuityLeaveEncashment": 0,
+            "isCompleted": false
+          },
+          "houseProperty": {
+            "hasHouseProperty": false,
+            "propertyType": "",
+            "addressOfProperty": "",
+            "ownerSharePercentage": 0,
+            "annualRentReceived": 0,
+            "municipalTaxesPaid": 0,
+            "homeLoanInterestSec24b": 0,
+            "principalAmount80C": 0,
+            "preConstructionInterest": 0,
+            "isCompleted": false
+          },
+          "capitalGains": {
+            "isCompleted": false,
+            "equityOrMutualFunds": {
+              "longTermCapitalGain": 0,
+              "longTermCapitalLoss": 0,
+              "shortTermCapitalGain": 0,
+              "shortTermCapitalLoss": 0
+            },
+            "propertySale": {
+              "saleConsideration": 0,
+              "purchaseValue": 0,
+              "yearOfPurchase": 0,
+              "indexedCost": 0,
+              "stampDutyValue": 0,
+              "improvementCost": 0,
+              "brokerageTransferExpenses": 0,
+              "exemptionClaimed": 0
+            },
+            "otherAssets": {
+              "gold": 0,
+              "bonds": 0,
+              "debentures": 0,
+              "internationalStocks": 0,
+              "cryptoBitcoinGains": 0,
+              "cryptoLosses": 0,
+              "winningGames": 0
+            }
+          },
+          "businessOrProfessionalIncome": {
+            "isCompleted": false,
+            "forBusiness": {
+              "natureOfBusiness": "",
+              "turnover": 0,
+              "grossReceipts": 0,
+              "expenses": {
+                "expense1": 0,
+                "expense2": 0,
+                "expense3": 0,
+                "expense4": 0,
+                "expense5": 0
+              },
+              "netProfit": 0,
+              "presumptiveIncome": 0,
+              "bookProfit": 0,
+              "depreciation": 0,
+              "stockDetails": "",
+              "gstNumberAndTurnover": "",
+              "tdsByClients": 0
+            },
+            "balanceSheetDetails": {
+              "sundryDebtors": 0,
+              "sundryCreditors": 0,
+              "cashAndBankBalance": 0,
+              "loansAndAdvances": 0,
+              "fixedAssets": 0,
+              "loans": 0
+            },
+            "freeLancingOrConsulting": {
+              "receipts": 0,
+              "expenses": 0,
+              "netTaxableIncome": 0
+            }
+          },
+          "otherSources": {
+            "isCompleted": false,
+            "savingsBankInterest": 0,
+            "fdInterest": 0,
+            "rdInterest": 0,
+            "bondInterest": 0,
+            "dividendIncome": 0,
+            "familyPension": 0,
+            "incomeFromSubLetting": 0,
+            "giftsReceivedAboveLimits": 0,
+            "lotteryGamesOnlineFantasyIncome": 0,
+            "raceHorsesIncome": 0,
+            "bitcoinCryptoIncome": 0,
+            "otherTaxableCasualIncome": 0
+          },
+          "exemptIncome": {
+            "isCompleted": false,
+            "pfMaturity": 0,
+            "ppfInterest": 0,
+            "agriculturalIncome": 0,
+            "giftsFromRelatives": 0,
+            "ltcTaxExempt": 0,
+            "gratuity": 0,
+            "leaveEncashment": 0
+          }
+        },
+        "year2": {
+          "step": "completed",
+          "refundDetails": {
+            "refundAmount": 0,
+            "refundStatus": "",
+            "refundDate": ""
+          },
+          "filingDetails": {
+            "filingStatus": "",
+            "acknowledgementNumber": "",
+            "fillingDate": ""
+          },
+          "commissionDetails": {
+            "totalCommissionAmount": 0,
+            "commissionReceived": ""
+          },
+          "basicInformation": {
+            "name": "",
+            "PAN": "",
+            "mobile": "",
+            "isCompleted": false
+          },
+          "salaryIncome": {
+            "employerCategory": "",
+            "grossSalary": 0,
+            "basicSalary": 0,
+            "hraReceived": 0,
+            "rentPaid": 0,
+            "cityType": "",
+            "otherAllowances": {
+              "allowance1": 0,
+              "allowance2": 0,
+              "allowance3": 0,
+              "allowance4": 0,
+              "allowance5": 0
+            },
+            "ProfessionalTaxPaid": 0,
+            "standardDeduction": 0,
+            "employerPfContribution": 0,
+            "employerNpsContribution": 0,
+            "GratuityLeaveEncashment": 0,
+            "isCompleted": false
+          },
+          "houseProperty": {
+            "hasHouseProperty": false,
+            "propertyType": "",
+            "addressOfProperty": "",
+            "ownerSharePercentage": 0,
+            "annualRentReceived": 0,
+            "municipalTaxesPaid": 0,
+            "homeLoanInterestSec24b": 0,
+            "principalAmount80C": 0,
+            "preConstructionInterest": 0,
+            "isCompleted": false
+          },
+          "capitalGains": {
+            "isCompleted": false,
+            "equityOrMutualFunds": {
+              "longTermCapitalGain": 0,
+              "longTermCapitalLoss": 0,
+              "shortTermCapitalGain": 0,
+              "shortTermCapitalLoss": 0
+            },
+            "propertySale": {
+              "saleConsideration": 0,
+              "purchaseValue": 0,
+              "yearOfPurchase": 0,
+              "indexedCost": 0,
+              "stampDutyValue": 0,
+              "improvementCost": 0,
+              "brokerageTransferExpenses": 0,
+              "exemptionClaimed": 0
+            },
+            "otherAssets": {
+              "gold": 0,
+              "bonds": 0,
+              "debentures": 0,
+              "internationalStocks": 0,
+              "cryptoBitcoinGains": 0,
+              "cryptoLosses": 0,
+              "winningGames": 0
+            }
+          },
+          "businessOrProfessionalIncome": {
+            "isCompleted": false,
+            "forBusiness": {
+              "natureOfBusiness": "",
+              "turnover": 0,
+              "grossReceipts": 0,
+              "expenses": {
+                "expense1": 0,
+                "expense2": 0,
+                "expense3": 0,
+                "expense4": 0,
+                "expense5": 0
+              },
+              "netProfit": 0,
+              "presumptiveIncome": 0,
+              "bookProfit": 0,
+              "depreciation": 0,
+              "stockDetails": "",
+              "gstNumberAndTurnover": "",
+              "tdsByClients": 0
+            },
+            "balanceSheetDetails": {
+              "sundryDebtors": 0,
+              "sundryCreditors": 0,
+              "cashAndBankBalance": 0,
+              "loansAndAdvances": 0,
+              "fixedAssets": 0,
+              "loans": 0
+            },
+            "freeLancingOrConsulting": {
+              "receipts": 0,
+              "expenses": 0,
+              "netTaxableIncome": 0
+            }
+          },
+          "otherSources": {
+            "isCompleted": false,
+            "savingsBankInterest": 0,
+            "fdInterest": 0,
+            "rdInterest": 0,
+            "bondInterest": 0,
+            "dividendIncome": 0,
+            "familyPension": 0,
+            "incomeFromSubLetting": 0,
+            "giftsReceivedAboveLimits": 0,
+            "lotteryGamesOnlineFantasyIncome": 0,
+            "raceHorsesIncome": 0,
+            "bitcoinCryptoIncome": 0,
+            "otherTaxableCasualIncome": 0
+          },
+          "exemptIncome": {
+            "isCompleted": false,
+            "pfMaturity": 0,
+            "ppfInterest": 0,
+            "agriculturalIncome": 0,
+            "giftsFromRelatives": 0,
+            "ltcTaxExempt": 0,
+            "gratuity": 0,
+            "leaveEncashment": 0
+          }
+        }
+      }
+    }
+  ]
+}
