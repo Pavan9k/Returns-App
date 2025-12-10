@@ -1,4 +1,4 @@
-import { Box, TextField, Typography } from "@mui/material";
+import { Box, Button, TextField, Typography } from "@mui/material";
 
 export function ProfessionalIncome() {
   return (
@@ -149,6 +149,14 @@ export function ProfessionalIncome() {
             sx={{ minWidth: 223 }}
           />
         </Box>
+      </Box>
+      <Box sx={{ display: "flex", gap: 2, justifyContent: "center", mt: 2 }}>
+        <Button variant="contained" color="error">
+          Discard
+        </Button>
+        <Button variant="contained" color="primary">
+          Save
+        </Button>
       </Box>
     </Box>
   );
